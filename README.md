@@ -6,7 +6,7 @@ Submitted by: **Schuyler Seyram**
 
 Time spent: **8** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/scalloped-notch-tie)
 
 ## Required Functionality
 
@@ -40,14 +40,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
-
+![](![added_touchscreen](https://user-images.githubusercontent.com/92143941/163356835-673edcf0-6b3e-41a1-a610-579a2f9fe0ea.gif)
+)
+![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/added_touchscreen.gif)
+![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/lose_game.gif)
+![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/lose_game_three_tries.gif)
+![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/random_pattern.gif)
+![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/speed_up.gif)
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[https://www.programiz.com/javascript/library/math/random
+  https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
