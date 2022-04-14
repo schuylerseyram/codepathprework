@@ -40,8 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](![added_touchscreen](https://user-images.githubusercontent.com/92143941/163356835-673edcf0-6b3e-41a1-a610-579a2f9fe0ea.gif)
-)
+![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/Play_till_win.gif)
 ![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/added_touchscreen.gif)
 ![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/lose_game.gif)
 ![](https://github.com/schuylerseyram/codepathprework/blob/main/preworkgifs/lose_game_three_tries.gif)
