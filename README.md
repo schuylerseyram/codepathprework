@@ -60,8 +60,10 @@ In addition to this, I also had a hard time finding pairs of colors to use for t
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [Some of the questions I have include:
 
-1.Does the browser one use end up severely limiting the functionality of a webpage. For example, can the latest version of Opera limit some website functions as compared to Google Chrome? \n
-2. How do various languages and web frameworks come together to function and how do  they communicate with other object oriented languages like Java and C and Python. Are there generic functions or classes for this purpose or the team has to design custom classes to suit this purpose.\n
+1.Does the browser one use end up severely limiting the functionality of a webpage. For example, can the latest version of Opera limit some website functions as compared to Google Chrome? 
+
+2. How do various languages and web frameworks come together to function and how do  they communicate with other object oriented languages like Java and C and Python. Are there generic functions or classes for this purpose or the team has to design custom classes to suit this purpose.
+
 3. With interactive websites and websites where heavy to moderate amount of data is computed, how are the resources obtained. Are resources such as memory and computing power derived from servers alone, or the cache and browser permissions give access to the website to use RAM and CPU power or there’s sort of like in between the two options above.
 
 
