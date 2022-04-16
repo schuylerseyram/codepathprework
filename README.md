@@ -52,24 +52,40 @@ If you recorded multiple GIFs for all the implemented features, you can add them
   https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[I had challenges implementing speeding up the game, creating random patterns and choosing colors for the tiles.  The hint given in speeding up the game said Math.random could be used. Upon using math. random, I realized the game wasn't running. So I wrote code to output the array into the console and found out that Math.random produces numbers in the range from 0 to 1. Using online forums, I came up with code that converted these random decimals to positive integers. Upon doing that I also realized that I had to further modify the code to produce numbers from 1-8, both bounds inclusive. This was because I had a total of 8 buttons and a number above 8 would cause the code to stop working.
+Also, I had problems finding a suitable decrement for the clueHoldTime and had to take a while testing for values. I then settled for a constant decrement of 25. 30 seemed too high and 20 seemed too low. For increments of 25 and above, the clueHoldTime seemed to run down quickly and would not hold the Clue long enough to be spotted after a certain stage  of the game.
+In addition to this, I also had a hard time finding pairs of colors to use for the tiles. In the end I would even admit that some of the colors I settled for might have not been the best but In a certain sense it adds more difficulty to the game cause it means that for some of the tiles one really has to be alert to the visual cues as the color the tile switches to when the clue is played is just a bit darker in shade than the original.
+]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Some of the questions I have include:
+
+1.Does the browser one use end up severely limiting the functionality of a webpage. For example, can the latest version of Opera limit some website functions as compared to Google Chrome?
+2. How do various languages and web frameworks come together to function and how do  they communicate with other object oriented languages like Java and C and Python. Are there generic functions or classes for this purpose or the team has to design custom classes to suit this purpose.
+3. With interactive websites and websites where heavy to moderate amount of data is computed, how are the resources obtained. Are resources such as memory and computing power derived from servers alone, or the cache and browser permissions give access to the website to use RAM and CPU power or there’s sort of like in between the two options above
+
+
+]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had a few more hours to work on this project, I would try to come up with various difficulty levels . These levels would include:
+Color combinations for tiles that require rapt attention to catch the visual cues. I.e. It would be much difficult to see the visual clue because when the button is used, the color change will not be dark enough to easily detect.
+A decrease in the number of chances one has to click the correct button after a clue is played. 
+I would further mix single tones with audios such that one button in the gam might give a note while the other might give a tone.
+To aid people who want to develop their musical ear, I would have a level that sets the buttons to play the C major scale and then take of visual clues so only audio clues are available. 
+
+]
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/2742a55f254c4470a9ffa95e65881f8d)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Schuyler Seyram]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
